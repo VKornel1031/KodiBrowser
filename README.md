@@ -1,2 +1,2 @@
 # KodiBrowser
-A minimalistic and beutiful browser.
+A minimalistic and beutiful browser. Also OpenSource! Uses DuckDuckGo. And looks good.
